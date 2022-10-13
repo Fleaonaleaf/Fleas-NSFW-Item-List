@@ -7573,6 +7573,60 @@
 		"defname": "Psytrainer_VPE_HeatFocus"
 	},
 	{
+		"abr": "electricrepairbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "ElectricTableRepair"
+	},
+	{
+		"abr": "minithrumbo",
+		"price": 20833,
+		"category": "Animals",
+		"defname": "MiniThrumbo"
+	},
+	{
+		"abr": "minithrumbofur",
+		"price": 37,
+		"category": "Leathers",
+		"defname": "MiniThrumboLeather"
+	},
+	{
+		"abr": "minithrumbohorn",
+		"price": 3333,
+		"category": "Items",
+		"defname": "MiniThrumboHorn"
+	},
+	{
+		"abr": "minithrumbomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MiniThrumbo"
+	},
+	{
+		"abr": "minithrumbowool",
+		"price": 100,
+		"category": "Textiles",
+		"defname": "MiniThrumboWool"
+	},
+	{
+		"abr": "psytrainer(hurricane)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Hurricane"
+	},
+	{
+		"abr": "psytrainer(iceblock)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceBlock"
+	},
+	{
+		"abr": "psytrainer(icecrystal)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceCrystal"
+	},
+	{
 		"abr": "anus",
 		"price": 417,
 		"category": "Natural",
@@ -7993,12 +8047,6 @@
 		"defname": "RJW_EggInsectUnfertilized"
 	},
 	{
-		"abr": "electricrepairbench",
-		"price": 583,
-		"category": "Production",
-		"defname": "ElectricTableRepair"
-	},
-	{
 		"abr": "equinepenis",
 		"price": 417,
 		"category": "Natural",
@@ -8125,6 +8173,24 @@
 		"defname": "AFUENT_FoxTailKLarge"
 	},
 	{
+		"abr": "basicmat",
+		"price": 7,
+		"category": "Furniture",
+		"defname": "ImprovedSleepingSpot"
+	},
+	{
+		"abr": "cum",
+		"price": 0,
+		"category": "Animal products",
+		"defname": "GatheredCum"
+	},
+	{
+		"abr": "cumbucket",
+		"price": 35,
+		"category": "Furniture",
+		"defname": "CumBucket"
+	},
+	{
 		"abr": "foxtail(ninetail)medium",
 		"price": 39,
 		"category": "Bondage gear",
@@ -8183,373 +8249,7 @@
 		"price": 39,
 		"category": "Bondage gear",
 		"defname": "AFUENT_FoxTailEMedium"
-	},
-	{
-		"abr": "foxtail(threetail)small",
-		"price": 39,
-		"category": "Bondage gear",
-		"defname": "AFUENT_FoxTailESmall"
-	},
-	{
-		"abr": "fuckmachine",
-		"price": 36,
-		"category": "Fuck machines",
-		"defname": "FuckMachineWooden"
-	},
-	{
-		"abr": "goldencrossnipplestickers",
-		"price": 33,
-		"category": "Stickers",
-		"defname": "S16_StickersC"
-	},
-	{
-		"abr": "heavynipplerings",
-		"price": 115,
-		"category": "Piercing",
-		"defname": "S16_HeavyNippleRings"
-	},
-	{
-		"abr": "hemipenis",
-		"price": 500,
-		"category": "Natural",
-		"defname": "HemiPenis"
-	},
-	{
-		"abr": "highthong",
-		"price": 112,
-		"category": "Underwear",
-		"defname": "S16_HighThong"
-	},
-	{
-		"abr": "holokey",
-		"price": 17,
-		"category": "Manufactured",
-		"defname": "Holokey"
-	},
-	{
-		"abr": "hololock",
-		"price": 667,
-		"category": "Manufactured",
-		"defname": "Hololock"
-	},
-	{
-		"abr": "humpshroom",
-		"price": 17,
-		"category": "Drugs",
-		"defname": "HumpShroom"
-	},
-	{
-		"abr": "humpshroomtea",
-		"price": 13,
-		"category": "Drugs",
-		"defname": "HumpshroomTea"
-	},
-	{
-		"abr": "hydraulicanus",
-		"price": 167,
-		"category": "Prosthetic",
-		"defname": "HydraulicAnus"
-	},
-	{
-		"abr": "hydraulicbreasts",
-		"price": 167,
-		"category": "Prosthetic",
-		"defname": "HydraulicBreasts"
-	},
-	{
-		"abr": "hydraulicpenis",
-		"price": 167,
-		"category": "Prosthetic",
-		"defname": "HydraulicPenis"
-	},
-	{
-		"abr": "hydraulicvagina",
-		"price": 167,
-		"category": "Prosthetic",
-		"defname": "HydraulicVagina"
-	},
-	{
-		"abr": "hyperfertilitypills",
-		"price": 25,
-		"category": "Drugs",
-		"defname": "RJW_FertPill"
-	},
-	{
-		"abr": "insectanus",
-		"price": 83,
-		"category": "Natural",
-		"defname": "InsectAnus"
-	},
-	{
-		"abr": "intimatetape",
-		"price": 29,
-		"category": "Underwear",
-		"defname": "S16_BlackTape"
-	},
-	{
-		"abr": "largeanalplug",
-		"price": 19,
-		"category": "Bondage gear",
-		"defname": "MAnalPlugLarge"
-	},
-	{
-		"abr": "largeanalplug",
-		"price": 19,
-		"category": "Bondage gear",
-		"defname": "SAnalPlugLarge"
-	},
-	{
-		"abr": "largeanalplug",
-		"price": 19,
-		"category": "Bondage gear",
-		"defname": "WAnalPlugLarge"
-	},
-	{
-		"abr": "legbinder",
-		"price": 917,
-		"category": "Bondage gear",
-		"defname": "Legbinder"
-	},
-	{
-		"abr": "littleantlers",
-		"price": 31,
-		"category": "Head decoration",
-		"defname": "AFUENT_DeerHornC"
-	},
-	{
-		"abr": "littleantlerswithears",
-		"price": 31,
-		"category": "Head decoration",
-		"defname": "AFUENT_DeerHornD"
-	},
-	{
-		"abr": "lizardtail(pythonpattern)large",
-		"price": 39,
-		"category": "Bondage gear",
-		"defname": "AFUENT_LizardTailCLarge"
-	},
-	{
-		"abr": "lizardtail(pythonpattern)medium",
-		"price": 39,
-		"category": "Bondage gear",
-		"defname": "AFUENT_LizardTailCMedium"
-	},
-	{
-		"abr": "lizardtail(pythonpattern)small",
-		"price": 39,
-		"category": "Bondage gear",
-		"defname": "AFUENT_LizardTailCSmall"
-	},
-	{
-		"abr": "lizardtail(smooth)large",
-		"price": 39,
-		"category": "Bondage gear",
-		"defname": "AFUENT_LizardTailALarge"
-	},
-	{
-		"abr": "lizardtail(smooth)medium",
-		"price": 39,
-		"category": "Bondage gear",
-		"defname": "AFUENT_LizardTailAMedium"
-	},
-	{
-		"abr": "lizardtail(smooth)small",
-		"price": 39,
-		"category": "Bondage gear",
-		"defname": "AFUENT_LizardTailASmall"
-	},
-	{
-		"abr": "lizardtail(spiked)large",
-		"price": 39,
-		"category": "Bondage gear",
-		"defname": "AFUENT_LizardTailBLarge"
-	},
-	{
-		"abr": "lizardtail(spiked)medium",
-		"price": 39,
-		"category": "Bondage gear",
-		"defname": "AFUENT_LizardTailBMedium"
-	},
-	{
-		"abr": "lizardtail(spiked)small",
-		"price": 39,
-		"category": "Bondage gear",
-		"defname": "AFUENT_LizardTailBSmall"
-	},
-	{
-		"abr": "lovecookie",
-		"price": 7,
-		"category": "Meals",
-		"defname": "S16LoveCookie"
-	},
-	{
-		"abr": "lovenectar",
-		"price": 7,
-		"category": "Meals",
-		"defname": "S16LoveNectar"
-	},
-	{
-		"abr": "maiddress",
-		"price": 383,
-		"category": "Dresses",
-		"defname": "S16_MaidA"
-	},
-	{
-		"abr": "mediumanalplug",
-		"price": 16,
-		"category": "Bondage gear",
-		"defname": "MAnalPlugMedium"
-	},
-	{
-		"abr": "mediumanalplug",
-		"price": 16,
-		"category": "Bondage gear",
-		"defname": "SAnalPlugMedium"
-	},
-	{
-		"abr": "mediumanalplug",
-		"price": 16,
-		"category": "Bondage gear",
-		"defname": "WAnalPlugMedium"
-	},
-	{
-		"abr": "microthong",
-		"price": 79,
-		"category": "Underwear",
-		"defname": "S16_MicroThong"
-	},
-	{
-		"abr": "minithrumbo",
-		"price": 20833,
-		"category": "Animals",
-		"defname": "MiniThrumbo"
-	},
-	{
-		"abr": "minithrumbofur",
-		"price": 37,
-		"category": "Leathers",
-		"defname": "MiniThrumboLeather"
-	},
-	{
-		"abr": "minithrumbohorn",
-		"price": 3333,
-		"category": "Items",
-		"defname": "MiniThrumboHorn"
-	},
-	{
-		"abr": "minithrumbomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_MiniThrumbo"
-	},
-	{
-		"abr": "minithrumbowool",
-		"price": 100,
-		"category": "Textiles",
-		"defname": "MiniThrumboWool"
-	},
-	{
-		"abr": "narrowvagina",
-		"price": 417,
-		"category": "Natural",
-		"defname": "NarrowVagina"
-	},
-	{
-		"abr": "needle-likepenis",
-		"price": 417,
-		"category": "Natural",
-		"defname": "NeedlePenis"
-	},
-	{
-		"abr": "nipplebarbells",
-		"price": 48,
-		"category": "Piercing",
-		"defname": "S16_NippleBarbells"
-	},
-	{
-		"abr": "nippleclamps",
-		"price": 197,
-		"category": "Piercing",
-		"defname": "S16_NCA"
-	},
-	{
-		"abr": "nippleclampswithring",
-		"price": 197,
-		"category": "Piercing",
-		"defname": "S16_NCB"
-	},
-	{
-		"abr": "nipplerings",
-		"price": 48,
-		"category": "Piercing",
-		"defname": "S16_NippleRings"
-	},
-	{
-		"abr": "nipplestickers",
-		"price": 83,
-		"category": "Stickers",
-		"defname": "S16_RoundStickers"
-	},
-	{
-		"abr": "nipplewristcuffs",
-		"price": 287,
-		"category": "Bondage gear",
-		"defname": "S16_NippleWristCuffs"
-	},
-	{
-		"abr": "onesidedevilhorns",
-		"price": 38,
-		"category": "Head decoration",
-		"defname": "AFUENT_DevilHornC"
-	},
-	{
-		"abr": "ovipositor(female)",
-		"price": 83,
-		"category": "Natural",
-		"defname": "OvipositorF"
-	},
-	{
-		"abr": "ovipositor(male)",
-		"price": 58,
-		"category": "Natural",
-		"defname": "OvipositorM"
-	},
-	{
-		"abr": "pegdick",
-		"price": 8,
-		"category": "Simple parts",
-		"defname": "PegDick"
-	},
-	{
-		"abr": "penis",
-		"price": 417,
-		"category": "Natural",
-		"defname": "Penis"
-	},
-	{
-		"abr": "procyoninepenis",
-		"price": 417,
-		"category": "Natural",
-		"defname": "RaccoonPenis"
-	},
-	{
-		"abr": "psytrainer(hurricane)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Hurricane"
-	},
-	{
-		"abr": "psytrainer(iceblock)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_IceBlock"
-	},
-	{
-		"abr": "psytrainer(icecrystal)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_IceCrystal"
-	},
+	}
 	],
-	"total": 1560
+	"total": 1574
 }
