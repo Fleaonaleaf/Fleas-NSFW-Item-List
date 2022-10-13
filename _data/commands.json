@@ -1162,7 +1162,7 @@
       "localCooldown": 0,
       "mod": "Unknown"
     },
-    "description": "Provides all available viewer-purchasable in-game items.",
+    "description": "Provides the link to all available viewer-purchasable in-game items.",
     "name": "Item List",
     "usage": "!itemlist",
     "userLevel": "Anyone",
