@@ -21,7 +21,13 @@
     "author": "Ed86",
     "name": "RimJobWorld",
     "steamId": "",
-    "version": "5.2.1"
+    "version": "5.2.4"
+  },
+  {
+    "author": "Supes",
+    "name": "Map Wide Orbital Trade Beacon",
+    "steamId": "1839069104",
+    "version": "1.0.0.2"
   },
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
@@ -32,6 +38,54 @@
   {
     "author": "Dragoduval",
     "name": "DD - Humpshroom Tea",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "a",
+    "name": "RJW Sexperience",
+    "steamId": "",
+    "version": "1.0.2.3"
+  },
+  {
+    "author": "Ed86",
+    "name": "RJW - Whorebeds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Anonymous",
+    "name": "VoicePatch_and_Voice_Packs-v1.3.0(20.08.2022)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "C0ffee",
+    "name": "Rimworld-Animations",
+    "steamId": "",
+    "version": "1.2.7"
+  },
+  {
+    "author": "Tory187",
+    "name": "RJWAnimAddons-XtraAnims",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tory187",
+    "name": "RJWAnimAddons-AnimalPatch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ziehn,  Huey,  malistaticy and  Ed86",
+    "name": "RimJobWorld - Milkable Colonists",
     "steamId": null,
     "version": null
   },
@@ -48,10 +102,10 @@
     "version": null
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
+    "author": "Canon",
+    "name": "Titular Royalty",
+    "steamId": "2838668305",
+    "version": "1.3"
   },
   {
     "author": "Acruid",
@@ -81,7 +135,7 @@
     "author": "Y-Adaptor",
     "name": "RimNudeWorld",
     "steamId": "",
-    "version": "2.2.14.10"
+    "version": "2.2.14.12"
   },
   {
     "author": "Kiame Vivacity",
@@ -340,6 +394,12 @@
     "name": "Work Tab",
     "steamId": "725219116",
     "version": "3.21.303"
+  },
+  {
+    "author": "krkr",
+    "name": "Locks 2: Lock Them Out!",
+    "steamId": "2285862824",
+    "version": "1.0.0"
   },
   {
     "author": "EgotisticalElf",
