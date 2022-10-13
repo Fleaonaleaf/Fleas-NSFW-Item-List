@@ -1162,9 +1162,9 @@
       "localCooldown": 0,
       "mod": "Unknown"
     },
-    "description": "Provides all available and viwer-purchasable in-game items.",
-    "name": null,
-    "usage": "!",
+    "description": "Provides all available viewer-purchasable in-game items.",
+    "name": "Item List",
+    "usage": "!itemlist",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Itemlist"
@@ -1181,8 +1181,8 @@
       "mod": "Unknown"
     },
     "description": null,
-    "name": null,
-    "usage": "!",
+    "name": "TTK Items",
+    "usage": "!ttkitems",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Ttkitemlist"
