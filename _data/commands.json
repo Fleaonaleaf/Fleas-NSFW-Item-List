@@ -172,7 +172,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Provides Twitch Toolkit's purchase list commands.",
+    "description": null,
     "name": "Purchase list",
     "usage": "!purchaselist",
     "userLevel": "Anyone",
@@ -190,7 +190,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Use this command to sign up for an existing unassigned colony member; you can customize the pawn as if you bought it. NOTE: THIS IS A FREE OPTION IF YOU WISH TO SAVE COINS.",
+    "description": null,
     "name": "Join queue",
     "usage": "!joinqueue",
     "userLevel": "Anyone",
@@ -226,7 +226,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "To buy an in-game item.",
+    "description": null,
     "name": "Buy",
     "usage": "!buy",
     "userLevel": "Anyone",
@@ -604,7 +604,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Orders another colonist to rescue your pawn when it's downed.",
+    "description": null,
     "name": "Rescue me",
     "usage": "!rescueme",
     "userLevel": "Anyone",
@@ -676,7 +676,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's needs.",
+    "description": null,
     "name": "Viewer needs",
     "usage": "!mypawnneeds",
     "userLevel": "Anyone",
@@ -1162,9 +1162,9 @@
       "localCooldown": 0,
       "mod": "Unknown"
     },
-    "description": "Provides the link to all available viewer-purchasable in-game items.",
-    "name": "Item List",
-    "usage": "!itemlist",
+    "description": null,
+    "name": null,
+    "usage": "!",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Itemlist"
@@ -1181,8 +1181,8 @@
       "mod": "Unknown"
     },
     "description": null,
-    "name": "TTK Items",
-    "usage": "!ttkitems",
+    "name": null,
+    "usage": "!",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Ttkitemlist"
@@ -1198,8 +1198,8 @@
       "localCooldown": 0,
       "mod": "ToolkitCore"
     },
-    "description": "Command used to test the connection of Twitch Toolkit mod on Twitch.",
-    "name": "Hello",
+    "description": null,
+    "name": "hello",
     "usage": "!hello",
     "userLevel": "Moderator",
     "shortcut": false,
@@ -1216,8 +1216,8 @@
       "localCooldown": 0,
       "mod": "ToolkitRaids"
     },
-    "description": "Join the raiding party.",
-    "name": "Joinraid",
+    "description": null,
+    "name": "joinraid",
     "usage": "!joinraid",
     "userLevel": "Anyone",
     "shortcut": false,
