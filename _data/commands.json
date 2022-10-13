@@ -172,7 +172,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Provides Twitch Toolkit's purchase list commands.",
     "name": "Purchase list",
     "usage": "!purchaselist",
     "userLevel": "Anyone",
@@ -190,7 +190,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Use this command to sign up for an existing unassigned colony member; you can customize the pawn as if you bought it. NOTE: THIS IS A FREE OPTION IF YOU WISH TO SAVE COINS.",
     "name": "Join queue",
     "usage": "!joinqueue",
     "userLevel": "Anyone",
@@ -226,7 +226,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "To buy an in-game item.",
     "name": "Buy",
     "usage": "!buy",
     "userLevel": "Anyone",
@@ -604,7 +604,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Orders another colonist to rescue your pawn when it's downed.",
     "name": "Rescue me",
     "usage": "!rescueme",
     "userLevel": "Anyone",
@@ -676,7 +676,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Shows an overview of your pawn's needs.",
     "name": "Viewer needs",
     "usage": "!mypawnneeds",
     "userLevel": "Anyone",
@@ -1162,7 +1162,7 @@
       "localCooldown": 0,
       "mod": "Unknown"
     },
-    "description": null,
+    "description": "Provides all available and viwer-purchasable in-game items.",
     "name": null,
     "usage": "!",
     "userLevel": "Anyone",
