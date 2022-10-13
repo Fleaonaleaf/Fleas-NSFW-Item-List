@@ -1198,8 +1198,8 @@
       "localCooldown": 0,
       "mod": "ToolkitCore"
     },
-    "description": null,
-    "name": "hello",
+    "description": "Command used to test the connection of Twitch Toolkit mod on Twitch.",
+    "name": "Hello",
     "usage": "!hello",
     "userLevel": "Moderator",
     "shortcut": false,
@@ -1216,8 +1216,8 @@
       "localCooldown": 0,
       "mod": "ToolkitRaids"
     },
-    "description": null,
-    "name": "joinraid",
+    "description": "Join the raiding party.",
+    "name": "Joinraid",
     "usage": "!joinraid",
     "userLevel": "Anyone",
     "shortcut": false,
